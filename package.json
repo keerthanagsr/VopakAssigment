@@ -15,7 +15,7 @@
     "mongodb": "^3.5.8",
     "mongoose": "^5.9.18",
     "nodemon": "^2.0.4",
-    "read-excel-file": "^4.0.6",
+    "read-excel-file": "^5.5.1",
     "request": "^2.88.2",
     "round": "^2.0.1",
     "workbook": "^1.1.3",
